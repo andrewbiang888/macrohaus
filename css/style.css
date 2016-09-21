@@ -109,7 +109,7 @@ body div.sub-text::before {
 		font-size: 40px;
 		position: fixed;
 		top: 40%;
-		left: 50%;
+		left: 20%;
 		color: #fff;
 		z-index: 9999;
 	}
@@ -118,7 +118,7 @@ body div.sub-text::before {
 		position: fixed;
 		font-size: 20px;
 		top: 55%;
-		left: 50%;
+		left: 20%;
 		color: #fff;
 		z-index: 9999;
 	}
